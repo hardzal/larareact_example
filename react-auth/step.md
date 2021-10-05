@@ -1,0 +1,3 @@
+- install bootstrap
+- install react-router-dom
+- install axios
